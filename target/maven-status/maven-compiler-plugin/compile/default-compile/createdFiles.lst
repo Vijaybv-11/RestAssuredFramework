@@ -1,5 +1,6 @@
 api\Utilities\XLUtility.class
 api\EndPoints\Routes.class
+api\FakeRestAPI\Authors.class
 api\EndPoints\PetEndPoints.class
 api\payLoad\UserPayload.class
 api\Utilities\Dataprovider.class

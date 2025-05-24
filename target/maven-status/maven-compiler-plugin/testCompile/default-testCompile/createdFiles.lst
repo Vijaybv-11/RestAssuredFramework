@@ -1,5 +1,6 @@
-api\UserTest\UserTest.class
-api\petTest\petTest.class
+api\fakeRestAPI\FakerTest.class
 api\UserTest\DataproviderTest.class
 api\StoreTest\StoreTest.class
+api\UserTest\UserTest.class
+api\petTest\petTest.class
 api\UserTest\test.class
